@@ -3,6 +3,8 @@
 ## About
 
 ## Publications
+### 2024
+* Economic value of dung removal by dung beetles in US sub-tropical pastures. Basic and Applied Ecology,79, pgs 123-130 <https://doi.org/10.1016/j.baae.2024.07.001>
 
 ## News
 
